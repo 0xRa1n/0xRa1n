@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Backend developer with 3 years of experience engineering efficient Node.js applications. Currently pursuing Bachelor of Science in Information at Technological Insitute of the Philippines, with a proven focus on integrating Artificial Intelligence to deliver high-performance API services.</p>
+<p align="left">Backend developer with 3 years of experience engineering efficient Node.js applications. Currently pursuing Bachelor of Science in Information at the Technological Institute of the Philippines, with a passion on integrating Artificial Intelligence to deliver high-performance API services.</p>
 
 ###
 
