@@ -1,11 +1,5 @@
 <h2 align="left">Hi! I am Samuel Pascual</h2>
 
-###
-
-<h3 align="center">An eager, passionate, and exploring coder.</h3>
-
-###
-
 <h3 align="left">About Me</h3>
 
 ###
@@ -32,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
