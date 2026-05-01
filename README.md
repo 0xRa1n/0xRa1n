@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer with 3 years of experience developing efficient Node.js applications. Currently pursuing Bachelor of Science in Information at the Technological Institute of the Philippines, with a passion on integrating Artificial Intelligence to deliver exceptional API services.
+Backend developer with 4 years of experience developing efficient Node.js applications. Currently pursuing Bachelor of Science in Information at the Technological Institute of the Philippines, with a passion on integrating Artificial Intelligence to deliver exceptional API services.
 
 
 ## 🌐 Socials:
