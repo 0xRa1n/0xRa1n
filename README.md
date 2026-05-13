@@ -1,7 +1,7 @@
 # 💫 About Me:
 Backend developer with 4 years of experience developing efficient Node.js applications. Currently pursuing a Bachelor of Science in Information at the Technological Institute of the Philippines, with a passion for integrating Artificial Intelligence to deliver exceptional API services. 
 
-🌱 **Current Status:** Not actively seeking roles at the moment. My main focus is purely on **upskilling**, building personal projects, and exploring new backend/AI technologies!
+🌱 **Current Status:** I am not seeking for any roles at the moment. However, I am building personal projects, and exploring new AI technologies
 
 # 🌐 Socials & Portfolio:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-pascual) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelpascual240@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](#)
